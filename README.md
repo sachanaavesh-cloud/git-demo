@@ -1,3 +1,3 @@
 # git-demo
 this is my first git repository.
-github connection
+github connection.
